@@ -1,1 +1,1 @@
-print("Goodbye, World! beacuse of corona")
+print("Goodbye, World! beacuse of corona using webhooks")
